@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+
+    <TextView
+        android:id="@+id/product_Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="center" />
+
+
+    <TextView
+        android:id="@+id/product_Price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="center" />
+
+    <ImageView
+        android:id="@+id/product_Image"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        />
+
+    <Button
+        android:id="@+id/add_product_To_Cart"
+        android:textColor="#000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:layout_weight="0"
+        android:background="#358db8"
+        android:gravity="center"
+        android:text="ADD To my ACCOUNT" />
+
+
+
+</LinearLayout>

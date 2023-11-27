@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project_Oline_Shopping</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Header">Online_Shopping</string>
+    <string name="tab_1">JEANS</string>
+    <string name="tab_2">SHOES</string>
+    <string name="tab_3">Tshirt</string>
+    <string name="tab_4">Orders</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
